@@ -5,7 +5,7 @@ body {
     color:white;
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-
+    margin: 0;
 
     -webkit-animation: AnimationName 30s ease infinite;
     -moz-animation: AnimationName 30s ease infinite;
